@@ -17,6 +17,6 @@
  <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"> 
  </div>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwjb1020&layout=donut-vertical)](https://github.com/jwjb1020/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwjb1020&layout=pie)](https://github.com/jwjb1020/github-readme-stats)
 ![Jun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwjb1020&show_icons=true&theme=transparent)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jwjb1020)](https://solved.ac/jwjb1020)
